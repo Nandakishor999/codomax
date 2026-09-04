@@ -1,4 +1,3 @@
-# Module 1 — AI & Python Basics
 
 Welcome to **Module 1: AI & Python Basics**.
 
