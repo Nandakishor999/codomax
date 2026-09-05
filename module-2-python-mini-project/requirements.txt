@@ -1,0 +1,8 @@
+# No external libraries required
+# This project uses Python standard library only
+# Python 3.6+
+
+# Standard library modules used:
+# - json     (data storage)
+# - os       (file/directory operations)
+# - datetime (date stamping)
